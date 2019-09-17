@@ -70,7 +70,7 @@ table {
 }
 @font-face{
     font-family: carlos;
-    src: url(../Banner/fuentes/CGF\ Arch\ Reactor.ttf);
+    src: url(./fuentes/Arch.ttf);
 }
 .tex1{
     font-size: 150px;
